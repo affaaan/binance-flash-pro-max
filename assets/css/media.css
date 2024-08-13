@@ -1,0 +1,490 @@
+/* ====( DEVICE MAX WIDTH 1199PX )==== */
+@media (max-width:1199px) {
+    .service_item_content {
+        padding: 20px 20px 20px 20px;
+        margin-right: 0;
+    }
+}
+/* ====( DEVICE MAX WIDTH 991PX )==== */
+@media (max-width:991px) {
+    .navbar-nav {
+        margin-top: 20px;
+    }
+    .nav-item {
+        display: inline;
+        background: var(--primary);
+        margin: 5px auto;
+        width: 30%;
+        text-align: center;
+        border-radius: 10px;
+    }
+    .nav-link {
+        color: white;
+        margin-left: 0;
+    }
+    .nav-link.active {
+        color: black !important;
+    }
+    .top_header{
+        display: none;
+    }
+    .main_nav {
+        margin-top: 0px;
+    }
+    .header_content h4 {
+        font-size: 32px;
+    }
+    .header_content h6 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .header_content h4 {
+        margin-top: 0px;
+    }
+    .features_firstrow_left p {
+        width: 100%;
+    }
+    .shape_three {
+        width: 280px;
+        height: 400px;
+    }
+    .firstrow_right_arrow {
+        width: 268px;
+        height: 250px;
+    }
+    .features_firstrow_right_list li {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .common_heading {
+        font-size: 22px;
+        margin-bottom: 25px;
+    }
+    .two_box_shape {
+        height: 259px;
+    }
+    .features_secontrow_right {
+        margin-top: 67px;
+    }
+    .features_secontrow_right p {
+        margin-top: 20px;
+    }
+    .features_secontrow_left_list li {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .features_thirdrow_left {
+        margin-top: 0;
+    }
+    .features_thirdrow_right h2 {
+        right: -15%;
+    }
+    .thirdrow_plus_shape {
+        top: 38px;
+        height: 35px;
+    }
+    .features_thirdrow_right li {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .features_section {
+        padding: 45px 0 10px 0;
+    }
+    .security_section {
+        padding: 30px 0 20px 0;
+    }
+    .security_content h5 {
+        font-size: 16px;
+        width: 100%;
+        line-height: 23px;
+    }
+    .security_tick_shape {
+        left: 60%;
+        top: 10%;
+    }
+    footer h3 {
+        margin-bottom: 30px;
+    }
+    footer {
+        padding: 45px 0 30px 0;
+    }
+    .footer_middle_top a {
+        width: 80%;
+    }
+    .footer_middle_bottom h5 {
+        margin: 30px 0 30px 0;
+    }
+    .footer_right_top p {
+        font-size: 11px;
+    }
+    .footer_right_top a {
+        font-size: 11px;
+    }
+    .footer_right_bottom p {
+        font-size: 11px;
+    }
+    .footer_policy {
+        padding-top: 25px;
+    }
+    .footer_policy ul {
+        font-size: 11px;
+        justify-content: center;
+    }
+    .service_item_content p {
+        font-size: 12px;
+        margin: 40px 0px 30px 0;
+    }
+    .service_item_content {
+        padding: 10px 10px 10px 10px;
+    }
+    .booknow_section .service_item_content p {
+        font-size: 18px;
+    }
+    .booknow_section .service_item_content p::after {
+        left: 21%;
+    }
+}
+/* ====( DEVICE MAX WIDTH 767PX )==== */
+@media (max-width:767px) {
+    .firstrow_plus {
+        bottom: 40px;
+    }
+    .firstrow_right_arrow {
+        width: 225px;
+    }
+    .features_firstrow_right h3 {
+        font-size: 125px;
+    }
+    .features_firstrow_right_list li {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    .features_secontrow_left_list li {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    .features_secontrow_left h2 {
+        font-size: 125px;
+    }
+    .features_secontrow_right {
+        margin-top: 70px;
+    }
+    .features_thirdrow_left {
+        margin-top: 30px;
+    }
+    .thirdrow_plus_shape {
+        top: -8px;
+    }
+    .features_thirdrow_right h2 {
+        font-size: 125px;
+    }
+    .features_thirdrow_right {
+        margin-top: 0px;
+    }
+    .features_thirdrow_right li {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    .brand_section {
+        padding: 45px 0 50px 0;
+    }
+    .brand_section ul {
+        gap: 10px;
+    }
+    .brand_section span {
+        margin-bottom: 30px;
+    }
+    .security_tick_shape {
+        left: 20%;
+    }
+    .security_shape {
+        width: auto;
+        height: 230px;
+        margin-bottom: 20px;
+    }
+    .common_heading {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    .security_content h5 {
+        font-size: 20px;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    footer {
+        padding: 20px 0 30px 0;
+    }
+    .footer_middle_top a {
+        width: 35%;
+    }
+    .footer_middle_bottom h5 {
+        margin: 30px 0 20px 0;
+    }
+    footer h3 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    #btn-back-to-top {
+        margin: 20px 0;
+    }
+    .footer_policy {
+        padding-top: 25px;
+    }
+    .footer_policy ul {
+        gap: 15px;
+        font-size: 11px;
+    }
+    .service_item_content p {
+        font-size: 12px;
+    }
+    .service_item_content {
+        margin-right: 0;
+    }
+}
+/* ====( DEVICE MAX WIDTH 575PX )==== */
+@media (max-width:575px) {
+    .header_content h6 {
+        font-size: 14px;
+        margin-top: 15px;
+        margin-bottom: 25px;
+    }
+    .header_content h4 {
+        font-size: 28px;
+    }
+    .features_section {
+        padding: 40px 0 40px 0;
+    }
+    .features_firstrow_right h3 {
+        font-size: 100px;
+    }
+    .firstrow_plus {
+        bottom: 50px;
+        left: 70%;
+    }
+    .firstrow_right_arrow {
+        width: 100%;
+        height: 250px;
+        margin: 30px 0;
+    }
+    .features_firstrow_right_list li {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    .two_box_shape {
+        width: 100%;
+        height: 250px;
+    }
+    .features_secontrow_left h2 {
+        font-size: 100px;
+    }
+    .features_secontrow_left_list li {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    .features_secontrow_right {
+        margin-top: 70px;
+    }
+    .common_heading {
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+    .thirdrow_plus_shape {
+        top: -15px;
+    }
+    .features_thirdrow_right h2 {
+        font-size: 100px;
+    }
+    .features_thirdrow_right li {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    .brand_section span {
+        margin-bottom: 20px;
+    }
+    .brand_section {
+        padding: 40px 0 40px 0;
+    }
+    .brand_section ul {
+        gap: 10px;
+    }
+    .security_shape {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .security_content h5 {
+        font-size: 20px;
+        width: 100%;
+        line-height: 27px;
+        margin-bottom: 10px;
+    }
+    .footer_middle_top a {
+        margin: auto;
+        text-align: center;
+        margin-bottom: 23px;
+        width: 35%;
+        font-size: 12px;
+    }
+    .footer_middle_bottom h5 {
+        margin: 25px 0 25px 0;
+        text-align: center;
+    }
+    .footer_middle_bottom a {
+        justify-content: center;
+    }
+    footer h3 {
+        margin-bottom: 30px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .footer_right_top {
+        text-align: center;
+    }
+    #btn-back-to-top {
+        margin: 30px auto;
+    }
+    .footer_right_bottom ul {
+        gap: 25px;
+        justify-content: center;
+    }
+    .footer_right_bottom p {
+        text-align: center;
+    }
+    .footer_policy {
+        padding-top: 20px;
+    }
+    .footer_policy ul {
+        text-align: center;
+        justify-content: center;
+        font-size: 11px;
+    }
+    .service_item_content p {
+        font-size: 15px;
+    }
+    .booknow_section .service_item_content p::after {
+        left: 22%;
+    }
+}
+@media (max-width:375px) {
+    footer h3 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .footer_policy {
+        padding-top: 30px;
+    }
+    .footer_policy ul {
+        display: inherit;
+        font-size: 12px;
+    }
+ 
+}
+/* ====( DEVICE MAX WIDTH 320PX )==== */
+@media (max-width:320px) {
+    .booknow_about p {
+        width: 100%;
+    }
+    .booknow_about {
+        margin-top: 40px;
+    }
+    .booknow_section .service_item_content p::after {
+        left: 18%;
+    }
+    .booknow_section .service_item_content p {
+        font-size: 10px;
+        margin: 30px 0px 40px 0;
+        gap: 30px;
+    }
+    .booknow_section .service_item_content h2 {
+        font-size: 32px;
+    }
+    .service_item_content {
+        padding: 10px 10px 5px 10px;
+        margin-right: 0;
+    }
+    .service_item_content p {
+        font-size: 10px;
+        margin: 30px 0px 30px 0;
+    }
+    .service_main h1 {
+        font-size: 45px;
+        margin: 25px 0 25px 0;
+    }
+    .header_content h6 {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .header_content h4 {
+        font-size: 25px;
+    }
+    .firstrow_plus {
+        bottom: 25px;
+        left: 75%;
+    }
+    .firstrow_right_arrow {
+        height: 200px;
+    }
+    .features_firstrow_right_list li {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .two_box_shape {
+        width: 100%;
+        height: 200px;
+    }
+    .features_secontrow_right {
+        margin-top: 60px;
+    }
+    .features_thirdrow_left {
+        margin-top: 50px;
+    }
+    .features_secontrow_left_list li {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+
+    .thirdrow_plus_shape {
+        top: -40px;
+    }
+    .features_thirdrow_right li {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .brand_section {
+        padding: 30px 0 30px 0;
+    }
+    .brand_section li {
+        margin: 15px 0;
+    }
+    .brand_section ul {
+        display: inherit;
+    }
+    .security_section {
+        padding: 40px 0 20px 0;
+    }
+    .security_tick_shape {
+        width: 25px;
+        left: 53%;
+    }
+    .security_shape {
+        width: 100%;
+        height: 150px;
+        margin-bottom: 25px;
+    }
+    .common_heading {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+    .security_content h5 {
+        font-size: 18px;
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    footer {
+        padding: 10px 0 30px 0;
+    }
+    .footer_middle_bottom h5 {
+        margin: 45px 0 30px 0;
+    }
+   
+    
+}
